@@ -1,2 +1,2 @@
 # My-potfolio
-My ersonal frontend ortfolio website
+My personal frontend portfolio website
